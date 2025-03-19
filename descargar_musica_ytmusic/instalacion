@@ -1,0 +1,21 @@
+instalacion para linux:
+sudo apt update
+
+sudo apt install python3 python3-pip
+
+python3 --version
+
+instalacion para windows estan los ejecutables de 32 y 64 bits
+
+paquete necesario para linux (necesaria para conectar a ytmusic):
+pip3 install yt-dlp
+
+paquete necesario para windows (necesaria para conectar a ytmusic):
+pip install yt-dlp	
+
+o podemos usar: 
+python -m pip install yt-dlp
+
+
+ejecutar en terminal/cmd:
+python3 ytmusic.py 
